@@ -1,0 +1,10 @@
+C:\Users\MEGAS PC\Desktop\Universidad\Semestre 4\Prog\U3\Programas\Flappy\Flappy\bin\Debug\Flappy.exe.config
+C:\Users\MEGAS PC\Desktop\Universidad\Semestre 4\Prog\U3\Programas\Flappy\Flappy\bin\Debug\Flappy.exe
+C:\Users\MEGAS PC\Desktop\Universidad\Semestre 4\Prog\U3\Programas\Flappy\Flappy\bin\Debug\Flappy.pdb
+C:\Users\MEGAS PC\Desktop\Universidad\Semestre 4\Prog\U3\Programas\Flappy\Flappy\obj\Debug\Flappy.csprojAssemblyReference.cache
+C:\Users\MEGAS PC\Desktop\Universidad\Semestre 4\Prog\U3\Programas\Flappy\Flappy\obj\Debug\Flappy.Form1.resources
+C:\Users\MEGAS PC\Desktop\Universidad\Semestre 4\Prog\U3\Programas\Flappy\Flappy\obj\Debug\Flappy.Properties.Resources.resources
+C:\Users\MEGAS PC\Desktop\Universidad\Semestre 4\Prog\U3\Programas\Flappy\Flappy\obj\Debug\Flappy.csproj.GenerateResource.cache
+C:\Users\MEGAS PC\Desktop\Universidad\Semestre 4\Prog\U3\Programas\Flappy\Flappy\obj\Debug\Flappy.csproj.CoreCompileInputs.cache
+C:\Users\MEGAS PC\Desktop\Universidad\Semestre 4\Prog\U3\Programas\Flappy\Flappy\obj\Debug\Flappy.exe
+C:\Users\MEGAS PC\Desktop\Universidad\Semestre 4\Prog\U3\Programas\Flappy\Flappy\obj\Debug\Flappy.pdb
